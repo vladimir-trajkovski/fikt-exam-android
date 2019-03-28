@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Fikt Exam</string>
-  <string name="title_home">Home</string>
-  <string name="title_dashboard">Dashboard</string>
-  <string name="title_notifications">Notifications</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="StartScreenText">ТЕСТИРАЈТЕ ГО ВАШЕТО ЗНАЕЊЕ</string>
+    <string name="StartButton">ЗАПОЧНИ</string>
 </resources>
