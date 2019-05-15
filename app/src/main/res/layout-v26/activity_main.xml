@@ -5,9 +5,9 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    android:background="@color/cardview_light_background"
+    tools:context=".MainActivity" >
 
     <Space
         android:layout_width="match_parent"
@@ -17,9 +17,9 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="45dp"
+        android:textSize="35sp"
         android:gravity="center_horizontal"
-        android:text="@string/textview"
-        android:textSize="35sp" />
+        android:text="@string/textview" />
 
     <Space
         android:layout_width="match_parent"
@@ -45,9 +45,9 @@
             android:layout_width="20dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
+            android:textSize="50sp"
             android:layout_weight="1"
-            android:text="@string/CorrectAns"
-            android:textSize="50sp" />
+            android:text="@string/CorrectAns" />
     </LinearLayout>
 
     <LinearLayout
@@ -61,8 +61,8 @@
             android:id="@+id/imageView3"
             android:layout_width="30dp"
             android:layout_height="50dp"
-            android:layout_gravity="center_vertical"
             android:layout_weight="1"
+            android:layout_gravity="center_vertical"
             app:srcCompat="@drawable/banicon" />
 
         <TextView
@@ -70,9 +70,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
+            android:textSize="50sp"
             android:layout_weight="1"
-            android:text="@string/WrongAns"
-            android:textSize="50sp" />
+            android:text="@string/WrongAns" />
     </LinearLayout>
 
     <Space
@@ -95,8 +95,8 @@
         android:layout_width="210dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
         android:background="@drawable/button_border1"
-        android:text="@string/StartAgain"
-        android:textSize="20sp" />
+        android:text="@string/StartAgain" />
 
 </LinearLayout>
