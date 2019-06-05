@@ -33,7 +33,7 @@
         android:layout_height="95dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/startButton"
         android:layout_width="160dp"
         android:layout_height="60dp"
         android:layout_gravity="center_horizontal"
