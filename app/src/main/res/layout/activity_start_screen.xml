@@ -40,6 +40,4 @@
         android:background="@drawable/button_border"
         android:text="@string/StartButton"
         android:textSize="20sp" />
-
-
 </LinearLayout>

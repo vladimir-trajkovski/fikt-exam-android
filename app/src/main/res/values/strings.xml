@@ -2,6 +2,7 @@
     <string name="app_name">Е - тестирање</string>
     <string name="StartScreenText">ТЕСТИРАЈТЕ ГО ВАШЕТО ЗНАЕЊЕ</string>
     <string name="StartButton">ЗАПОЧНИ</string>
+
     <string name="ImePredmet">Предмет 2</string>
     <string name="TimerText">45:00:00</string>
     <string name="QuestionText">1. Рандом прашање?</string>
@@ -15,4 +16,8 @@
     <string name="ButtonBeginning"><![CDATA[<<]]></string>
     <string name="ButtonEnd"><![CDATA[>>]]></string>
     <string name="EndButton">КРАЈ</string>
+=======
+    <string name="textView2">Изберете еден од наведените предмети:</string>
+    <string name="selectButton">Избери</string>
+>>>>>>> develop
 </resources>
