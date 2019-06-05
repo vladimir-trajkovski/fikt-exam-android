@@ -14,7 +14,7 @@ public class SelectSubject extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);// activity_main is corresponding XML file
+        setContentView(R.layout.activity_select_screen);// activity_main is corresponding XML file
     }
 
 }
