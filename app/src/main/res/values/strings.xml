@@ -1,7 +1,18 @@
 <resources>
     <string name="app_name">Е - тестирање</string>
+
+    <string name="textview">Резултат:</string>
+    <string name="todo">TODO</string>
+    <string name="todol">TODO</string>
+    <string name="Number">TextView</string>
+    <string name="textview2">100</string>
+    <string name="CorrectAns">0</string>
+    <string name="WrongAns">0</string>
+    <string name="StartAgain">ЗАПОЧНИ ОДНОВО ИЗБЕРИ ПРЕДМЕТ</string>
+=======
     <string name="StartScreenText">ТЕСТИРАЈТЕ ГО ВАШЕТО ЗНАЕЊЕ</string>
     <string name="StartButton">ЗАПОЧНИ</string>
     <string name="textView2">Изберете еден од наведените предмети:</string>
     <string name="selectButton">Избери</string>
+>>>>>>> develop
 </resources>
